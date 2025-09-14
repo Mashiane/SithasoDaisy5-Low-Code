@@ -5,7 +5,7 @@
         "proptype": "TextBox",
         "propname": "id",
         "proptitle": "#",
-        "propdatatype": "Int",
+        "propdatatype": "String",
         "propplaceholder": "",
         "propvalue": "",
         "proprow": "1",
