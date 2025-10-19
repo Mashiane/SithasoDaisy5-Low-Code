@@ -6,6 +6,10 @@ https://youtu.be/6-fVLzcbvi4
 Discover the POWER of LowCode with SithasoDaisy5 Tour (Fake Data Used for Demonstration)
 https://youtu.be/NFuJpI7bAmI
 
+Creating your Apps
+
+To bring the applications generated with this tool to life you will need SithasoDaisy5, get it here, https://github.com/Mashiane/SithasoDaisy5
+Also note that the code examples from our LowCode experiences are also available on the SithasoDaisy5 repo.
 
 See B4x Blog Post
 
